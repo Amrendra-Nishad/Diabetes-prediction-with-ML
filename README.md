@@ -45,7 +45,6 @@ jupyter notebook "diabetes prediction.ipynb"
 
 The trained SVM model achieves strong classification accuracy on the test set, correctly distinguishing between diabetic and non-diabetic patients based on their diagnostic measurements.
 
-*(Add your exact accuracy score here once you check the notebook output, e.g. "Achieved 78% accuracy on the test set.")*
 
 ## Future Improvements
 
